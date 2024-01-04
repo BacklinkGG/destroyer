@@ -1,4 +1,4 @@
-<head><div style="display: none;">
+<body><div style="display: none;">
 <p><a style="display:none;" href="https://www.stieganesha.ac.id/">STIE Ganesha Jakarta</a></p>
 <p><a style="display:none;" href="https://europeanbakery.ae/">European Bakery - Best bakery items - Cakes & Pastries - Chocolates</a></p>
 <p><a style="display:none;" href="https://www.albushealthcare.com/">Albushealthcare: Life Care Products, Nephro Care Products, Neuro Care Products</a></p>
@@ -27,4 +27,4 @@
 <p><a style="display:none;" href="https://myabujahome.com/">Properties My Abuja Home</a></p>
 <p><a style="display:none;" href="http://liritsa.com/">LIRITSA.COM</a></p>
 <p><a style="display:none;" href="https://lyceumacademy.in/">The Lyceum Academy</a></p>
-</div></head>
+</div></body>
